@@ -96,4 +96,4 @@ A continuación, habrá finalizado el delay de la tarea y se mostrará nuevament
 
 Y así succesivamente. 
 
-<img src="terminalp4.png" width="430" align="center">
+<img src="terminalp4.PNG" width="430" align="center">
